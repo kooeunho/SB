@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+.DS_Store
+
+# Datasets and experiment outputs
+data/
+celeba_dataset/
+*.npy
+*.npz
+*.pt
+*.pth
+*.csv
+*.log
